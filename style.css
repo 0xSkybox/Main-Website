@@ -1,0 +1,14 @@
+div {
+    font-family: "Times New Roman", Times, serif;
+    font-size: 20px;
+}
+
+#header {
+    background-image: url("https://miro.medium.com/max/640/0*tGG5gOGxbaxqZSow.jpg");
+    width: 100%;
+}
+
+#navigation {
+    text-align: center;
+    font-size: x-large;
+}
