@@ -1,7 +1,6 @@
 var tomURL = "https://api.tomtom.com/search/2/search/";
-const tomKey = "A4G9oGWRyxmZJHiwd116hvoApcOvYGK7";
+
 var openURL = "http://api.openweathermap.org/data/2.5/forecast";
-const openWeatherKey = "31a0707f6e2567df817ce8cef1548de7";
 
 var openstackURL = "http://172.17.15.141/ubuntu/final.php?method=setWeather";
 
